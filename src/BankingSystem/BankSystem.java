@@ -7,7 +7,7 @@ public class BankSystem {
         Scanner sc = new Scanner(System.in);
         BankingClass banking = new BankingClass();
 
-        System.out.println("HELLO WELCOME TO BENIQT BANKING SYSTEM");
+        System.out.println("HELLO WELCOME TO Paul BANKING SYSTEM");
         System.out.println("What can I do for you today?");
         System.out.println("1. Banking");
         System.out.println("2. Doctor's Appointment");
