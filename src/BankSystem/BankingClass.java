@@ -1,4 +1,4 @@
-package BankingSystem;
+package BankSystem;
 
 public class BankingClass {
     private final int storedAccountNo = 123123;

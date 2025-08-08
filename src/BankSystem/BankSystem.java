@@ -1,4 +1,4 @@
-package BankingSystem;
+package BankSystem;
 
 import java.util.Scanner;
 
